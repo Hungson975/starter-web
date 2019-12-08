@@ -1,4 +1,6 @@
-Line1 : commit 1
+Line3 : change EDIT ME HERE add to index
 
-Line2 : commit 2
+Line4 : new line 4
+
+line 5 : new line 5
 
