@@ -1,6 +1,8 @@
-Line3 : change EDIT ME HERE add to index
+Line3 : change  REMOVE SOME STUFF ON LINE 3 add to index
 
 Line4 : new line 4
+
+Line 4a: insert line 4a
 
 line 5 : new line 5
 
